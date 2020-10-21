@@ -331,9 +331,7 @@ def action():
     jalan("Note : Your Offline account Will Open after 2 to 3 days")
     print ''
     print """
-\033[1;96mThanks me later
-\033[1;95mFb\033[1;97mSOmi
-\033[1;95myoutube\033[1;97mhttps://www.youtube.com/channel/UCQTzGko3DfEGSPQkI0k7o4A"""
+""
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
