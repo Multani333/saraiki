@@ -93,10 +93,10 @@ print  """
 \033[1;92m▒█▄▄▄█ ▒█▄▄▄█ ▒█░░▒█ ▄█▄ 　 
 \033[1;92m▒█▀▀█ ▒█▀▀█ ░█▀▀█ ▒█Zahid Akash 
 \033[1;97m▒Zahid Akash 
-\033[1;92m▒█▄▄█ ▒█░▒█ ▒█░▒█ ▒█░░▀█ ▒█▄▄▀
+\033[1;92m▒Asan Log Saraiki Sadi Jhok Saraiki
 \033[1;92m---------------------Zahid Akash--------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mThe Credit For This Code Goes To Somi..
+\033[1;96mAsan Log Saraiki Sadi Jhok Saraiki..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91mDEVOLPER
                      Zahid Akash
@@ -109,16 +109,16 @@ print  """
 \033[1;92mWHATAAPP
                       Zahid Akash
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mBlacklist Life gun mri wife Tour touch Sky..
+\033[1;96mAsan Log Saraiki Sadi Jhok Saraiki..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
-\033[1;92m-------------------Zahid Akash--------------------
+\033[1;92m-------------------Zahid Akash Multani--------------------
 """
 
 ####Logo####
 
 logo1 = """
 \033[1;91m░█▀▀▀█ ▀▀█▀▀ ─█▀▀█ ░█▀▀█ 　 
-\033[1;97m─▀▀▀▄▄ ─░█── ░█▄▄█ ░█▄▄▀ 　 
+\033[1;97m─Asan Log Saraiki Sadi Jhok Saraiki
 \033[1;91m░█▄▄▄█ ─░█── ░█─░█ ░█─░█ 　 
 \033[1;91m░█▀▀Zahid Akash░█ 
 \033[1;97m░█▀▀▄ ░█──░█ ░█▄▄▄█ 
@@ -142,7 +142,7 @@ logo1 = """
 \033[1;92mWHATAAPP   Zahid Akash
                      
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
-\033[1;96mBlacklist Life gun mri wife Tour touch Sky..
+\033[1;96mAsan Log Saraiki Sadi Jhok Saraiki..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;95m-----------------Zahid Akash------------------------
 """
@@ -157,7 +157,7 @@ logo2 = """
 \033[1;97m─Zahid Akash─ 
 \033[1;91m░█▄▄▄█ ░█▄Zahid Akash▄▄█ 　 ░█──░█ ▄█▄
 \033[1;97m
-\033[1;91m---------------------SOMI-------------------
+\033[1;91m---------------------Zahid Akash-------------------
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mThe Credit For This Code Goes To Zahid Akash..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
@@ -166,16 +166,16 @@ logo2 = """
 \033[1;94mFACEBOOK
                      SO MI MUSICAN
 \033[1;91mYOUTUBE
-                     SOMI RAPPER
+                     Zahid Multani
 \033[1;93mGITHUB
-                     Somi190
+                     Zahid Akash
 \033[1;92mWHATAAPP
-                      03455453538
+                      Zahid Akash
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mSaraiki Wasaib Zindabad..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
                                                 
-\033[1;97m---------------------Multani--------------------
+\033[1;97m---------------------Multani Hackers Pakistan--------------------
 """
 CorrectUsername = "Zahid"
 CorrectPassword = "Multani"
@@ -226,11 +226,11 @@ def Zeek():
     print logo1
     print '\x1b[1;91m[1]  START CLONING'
     time.sleep(0.10)
-    print '\x1b[1;92m[2] Zahid Akash FB ACCOUNT'
+    print '\x1b[1;92m[2] Zahid Akash Multani'
     time.sleep(0.10)
-    print '\x1b[1;95m[3] MORE INFO'
+    print '\x1b[1;95m[3] Arslan Wattoo'
     time.sleep(0.10)
-    print '\x1b[1;96m[4] TRACKER Multani'
+    print '\x1b[1;96m[4] Samnam Khan'
     time.sleep(0.10)
     print '\x1b[1;97m[5] CLONING ERROR'
     time.sleep(0.10)
